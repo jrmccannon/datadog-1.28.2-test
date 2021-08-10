@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "datadog-1.28.2-test", "datadog-1.28.2-test\datadog-1.28.2-test.csproj", "{AD37E451-D213-479C-BCF8-AA0AD3A23668}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD37E451-D213-479C-BCF8-AA0AD3A23668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD37E451-D213-479C-BCF8-AA0AD3A23668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD37E451-D213-479C-BCF8-AA0AD3A23668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD37E451-D213-479C-BCF8-AA0AD3A23668}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
