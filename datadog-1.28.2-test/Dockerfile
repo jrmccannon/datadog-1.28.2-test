@@ -10,7 +10,6 @@ ENV CORECLR_PROFILER={846F5F1C-F9AE-4B07-969E-05C26BC060D8}
 ENV CORECLR_PROFILER_PATH=/opt/datadog/Datadog.Trace.ClrProfiler.Native.so
 ENV DD_INTEGRATIONS=/opt/datadog/integrations.json
 ENV DD_DOTNET_TRACER_HOME=/opt/datadog
-ENV DD_TRACE_LOG_PATH=/var/log/datadog/dotnet
 
 FROM mcr.microsoft.com/dotnet/sdk:5.0 AS build
 WORKDIR /src
